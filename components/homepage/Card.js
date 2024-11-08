@@ -13,7 +13,7 @@ function Cards(props) {
               {props.title}
             </h1>
           </header>
-          <p className="dark:text-white text-grey-darker font-normal text-xl 1.25rem 1.75rem p-2 md:p-4">
+          <p className="dark:text-white text-grey-darker font-normal text-2xl 1.25rem 1.75rem p-2 md:p-4">
             {props.content}
           </p>
         </div>
